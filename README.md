@@ -2,6 +2,16 @@
 
 这个项目包含了一个折扣计算函数的完整单元测试套件。
 
+## 提示词
+
+```bash
+@discount_calculator.py  你是一位资深的Python测试工程师。
+请为以下  \`calculate_discount\` 函数编写单元测试：
+1. 使用  \`pytest\` 框架。
+2. 全面覆盖正常场景、所有边界条件和  \`ValueError\` 异常场景。
+3. 为每个测试用例起一个清晰的、能反映其意图的名字。
+```
+
 ## 项目结构
 
 - `discount_calculator.py` - 包含 `calculate_discount` 函数的实现
